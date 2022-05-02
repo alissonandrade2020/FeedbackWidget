@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="Happy" src="https://brasaosistemas.com.br/wp-content/uploads/2020/03/brasao-sistemas-logotipo.png)" width="70%">
+  <img alt="FeedBack" src="https://github.com/alissonandrade2020/FeedbackWidget/tree/master/web/assets" width="70%">
 </p>
 
 
