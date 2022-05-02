@@ -18,7 +18,7 @@
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=blue&labelColor=000000">
 
- <img src="https://img.shields.io/static/v1?label=Brasao&message=00&color=blue&labelColor=000000" alt="FeedBack" />
+ <img src="https://img.shields.io/static/v1?label=FeedBack&message=00&color=blue&labelColor=000000" alt="FeedBack" />
 </p>
 
 <br>
