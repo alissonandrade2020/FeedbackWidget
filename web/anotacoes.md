@@ -11,3 +11,5 @@
 - npm install -D tailwindcss postcss autoprefixer
 
 - npm install phosphor-react
+
+- npm install @headlessui/react
