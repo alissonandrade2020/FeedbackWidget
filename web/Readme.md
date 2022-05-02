@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img alt="FeedBack" src="https://github.com/alissonandrade2020/FeedbackWidget/tree/master/web/assets/frontend" width="70%">
+  <img alt="FeedBack" src="https://github.com/alissonandrade2020/FeedbackWidget/blob/master/web/assets/frontend.JPG" width="70%">
 </p>
 
 
