@@ -27,3 +27,9 @@
 - npm install jest -D
 
 - npx jest --init (y, y, node, y, v8, y)
+
+- npm install ts-node -D
+
+- npm i -D jest @swc/jest
+
+- npm i @types/jest -D
