@@ -33,3 +33,9 @@
 - npm i -D jest @swc/jest
 
 - npm i @types/jest -D
+
+- npm i @swc/core
+
+- npm i cors
+
+- npm i @types/cors
