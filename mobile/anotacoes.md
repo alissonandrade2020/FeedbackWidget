@@ -44,3 +44,9 @@
 (App.ts -> import 'react-native-gesture-handler';)
 
 - expo start --clear
+
+- expo install react-native-view-shot
+
+- npm install axios
+
+- expo install expo-file-system
