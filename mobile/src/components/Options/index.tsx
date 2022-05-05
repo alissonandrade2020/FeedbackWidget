@@ -1,7 +1,7 @@
 import React from "react";
 import { View, Text } from "react-native";
 
-import { Copyright } from "phosphor-react-native";
+import { Copyright } from "../Copyright";
 import { Option } from "../Option";
 
 import { feedbackTypes } from "../../utils/feedbackTypes";
