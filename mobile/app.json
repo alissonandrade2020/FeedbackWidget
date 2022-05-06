@@ -2,6 +2,11 @@
   "expo": {
     "name": "FeedGet: Alisson de Andrade  Araújo",
     "slug": "FeedGet",
+    "privacy": "public",
+    "platforms": [
+      "ios",
+      "android"
+    ],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/inicial.png",
