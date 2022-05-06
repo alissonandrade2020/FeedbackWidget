@@ -21,3 +21,5 @@
 [x] - require('tailwind-scrollbar'),
 
 - npm install html2canvas
+
+- npm install axios
