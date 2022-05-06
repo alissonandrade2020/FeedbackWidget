@@ -17,7 +17,7 @@
 - npm install -D @tailwindcss/forms
 [x] - require('@tailwindcss/forms'),
 
-- yarn add -D tailwind-scrollbar
+- yarn add -D tailwind-scrollbar 
 [x] - require('tailwind-scrollbar'),
 
 - npm install html2canvas
