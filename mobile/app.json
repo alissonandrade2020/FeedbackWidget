@@ -1,14 +1,14 @@
 {
   "expo": {
-    "name": "mobile",
-    "slug": "mobile",
+    "name": "FeedGet: Alisson de Andrade  Araújo",
+    "slug": "FeedGet",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/inicial.png",
     "splash": {
-      "image": "./assets/telas.png",
+      "image": "./assets/tela.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#8257E5"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -17,16 +17,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.alisson.feedgetalisson"
     },
     "android": {
+      "package": "com.alisson.feedgetalisson",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#FFFFFF"
+        "backgroundColor": "#8257E5"
       }
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
-    }
+    }    
   }
 }
