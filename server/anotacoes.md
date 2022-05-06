@@ -39,3 +39,11 @@
 - npm i cors
 
 - npm i @types/cors
+
+- https://railway.appa/
+
+- Deploy:
+
+[x] - npx prisma migrate deploy && npm run start
+
+- npx prisma migrate dev
