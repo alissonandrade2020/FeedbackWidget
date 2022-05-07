@@ -28,7 +28,6 @@
     "android": {
       "package": "com.alisson.feedgetalisson",
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#8257E5"
       }
     }    
