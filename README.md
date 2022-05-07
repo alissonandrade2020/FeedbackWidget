@@ -6,6 +6,30 @@
 
 ## Tecnologias utilizadas ⚙️
 
+
+<h4>Frontend</h4>
+
+- [x] <a href="https://vitejs.dev/">Vite</a>
+- [x] <a href="https://reactjs.org/">React</a>
+- [x] <a href="https://www.typescriptlang.org/">Typescript</a>
+- [x] <a href="https://tailwindcss.com/">Tailwindcss</a>
+- [x] <a href="https://phosphoricons.com/">Phosphor Icons</a>
+- [x] <a href="https://axios-http.com/">Axios</a>
+
+<h4>Mobile</h4>
+
+- [x] <a href="https://reactnative.dev/">React Native</a>
+- [x] <a href="https://expo.dev/">Expo</a>
+- [x] <a href="https://github.com/gorhom/react-native-bottom-sheet">Bottom Sheet</a>
+
+<h4>Backend</h4>
+
+- [x] <a href="https://expressjs.com/">Express</a>
+- [x] <a href="https://www.prisma.io/">Prisma</a>
+- [x] <a href="https://mailtrap.io/">Mailtrap</a>
+- [x] <a href="https://insomnia.rest/">Insomnia</a>
+- [x] <a href="https://jestjs.io/">Jest</a>
+  
 ## Executando o projeto 👨🏻‍💻
 
 Clone o projeto e acesse a sua pasta.
