@@ -84,3 +84,6 @@ https://feedback-widgetalissonandrade.vercel.app/
 
 ## Link do Backend
 https://feedbackwidget-production.up.railway.app/
+
+## Link do Mobile 
+https://expo.dev/@alissonandrade/FeedGet?serviceType=classic&di
