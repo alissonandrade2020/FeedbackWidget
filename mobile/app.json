@@ -2,13 +2,13 @@
   "expo": {
     "name": "FeedGet: Alisson de Andrade  Araújo",
     "slug": "FeedGet",
+    "version": "1.0.0",
+    "orientation": "portrait",
     "privacy": "public",
     "platforms": [
       "ios",
       "android"
     ],
-    "version": "1.0.0",
-    "orientation": "portrait",
     "icon": "./assets/inicial.png",
     "splash": {
       "image": "./assets/tela.png",
@@ -26,10 +26,10 @@
       "bundleIdentifier": "com.alisson.feedgetalisson"
     },
     "android": {
-      "package": "com.alisson.feedgetalisson",
-      "adaptiveIcon": {
-        "backgroundColor": "#8257E5"
-      }
-    }    
-  }
+      "package": "com.alisson.feedgetalisson"
+      },
+      "web": {
+        "favicon": "./assets/favicon.png"
+    }
+  }  
 }
